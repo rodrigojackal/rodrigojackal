@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Espero que sim. 
 
-## Me chamo Rodrigo, atualmente trabalho como Analisa de Desenvolvimento Pleno em uma empresa que é líder do segmento loyalty B2B, com mais de 1 milhão opções de recompensas para os clientes.
+## Me chamo Rodrigo, atualmente trabalho como Analisa de Desenvolvimento em uma empresa que o foco é o segmento loyalty B2B, com mais de 1 milhão opções de recompensas para os clientes.
 ## Estarei disponibilizando aqui alguns exercicios de cursos que estou atuando no momento.
 
 <hr>
