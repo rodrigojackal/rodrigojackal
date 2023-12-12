@@ -1,4 +1,6 @@
-## Olá, tudo bem? Espero que sim. 
+## Olá, tudo bem?
+
+Espero que sim. 
 
 ## Me chamo Rodrigo, atualmente trabalho como Analisa de Desenvolvimento em uma empresa que o foco é o segmento loyalty B2B, com mais de 1 milhão opções de recompensas para os clientes.
 
